@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Iuran Kantin Sekolah",
+  "description": "Sistem Manajemen & Penagihan Iuran Kantin Sekolah dengan Login Otentikasi Email, Penagihan WhatsApp, Arus Kas Pengeluaran, serta Laporan PDF & Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
